@@ -13,4 +13,3 @@ Unlike entity records, findings are time-sensitive and should preserve the date 
 
 Use the templates in this directory. Do not copy entire event calendars; capture the useful details and the official link..
 
-Use the templates in this directory. Do not copy entire event calendars; capture the useful details and the official link.
