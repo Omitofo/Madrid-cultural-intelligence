@@ -63,7 +63,8 @@ When asked to check entities, update their schedules, or find events for a perio
 5. Verify the event date, start time, venue, price and registration requirements from the event's own page where possible.
 6. Distinguish confirmed information from tentative or incomplete announcements.
 7. Save useful results in `03_findings/events/`. For a batch check, also create or update a dated check note in `03_findings/schedule_checks/`.
-8. Update an entity's `Last checked` field when its schedule was actually reviewed.
+8. Also add a short entry to `03_findings/calendar.md` so the event appears in the living date-sorted index.
+9. Update an entity's `Last checked` field when its schedule was actually reviewed.
 
 A search result snippet or an old agenda is not enough to confirm a current event. If a page is unavailable or information cannot be verified, say so and record the limitation. Do not interpret missing information as evidence that no events exist.
 
