@@ -1,6 +1,6 @@
 # Repository contents
 
-Files included: 30
+Files included: 31
 
 - `01_system/AGENTS.md`
 - `01_system/README.md`
