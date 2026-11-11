@@ -22,7 +22,7 @@ The repository provides persistent context. The LLM still needs to visit officia
 |---|---|
 | `01_system/` | Project purpose, agent instructions and working conventions |
 | `02_entities/` | Basic records for places and organizations worth checking |
-| `03_findings/` | Research gathered from those entities: events, schedule checks and discoveries |
+| `03_findings/` | Research gathered from those entities: events, calendar index, schedule checks and discoveries |
 | `04_ai_outputs/` | Curated agendas, answers and reports generated from research |
 | `05_working_notes/` | Backlog, open questions and ideas |
 
