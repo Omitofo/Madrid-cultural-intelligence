@@ -17,6 +17,7 @@ Files included: 30
 - `02_entities/institutions/real-academia-de-la-historia.md`
 - `02_entities/institutions/real-academia-espanola.md`
 - `03_findings/README.md`
+- `03_findings/calendar.md`
 - `03_findings/entity_discoveries/README.md`
 - `03_findings/events/README.md`
 - `03_findings/events/TEMPLATE.md`
